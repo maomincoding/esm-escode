@@ -1,0 +1,13 @@
+{
+  "name": "esm-escode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": false,
+  "keywords": [
+    "escode",
+    "esm-escode"
+  ],
+  "author": "maomincoding",
+  "license": "MIT"
+}
